@@ -1,0 +1,121 @@
+.card__container{
+  border: 2px red solid;
+  border-radius: 10px;
+  background-color: rgb(56, 56, 56);
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.card-input__container{
+  background-color: rgb(56, 56, 56);
+  margin-top: 10px;
+  flex-direction: column;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.card-input__container > H2{
+  background-color: rgb(56, 56, 56);
+  color:antiquewhite;
+}
+
+.card-input__container > input{
+  background-color: blanchedalmond;
+  color: black;
+  width: 50%;
+}
+
+.card-name__container{
+  background-color: rgb(56, 56, 56);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.card-name__container > h2{
+  background-color: rgb(56, 56, 56);
+}
+
+.card-autor__container{
+  background-color: rgb(56, 56, 56);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.card-autor__container > h3{
+  background-color: rgb(56, 56, 56);
+}
+
+.card-others-info__container{
+  background-color: rgb(56, 56, 56);
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction:row;
+  justify-content: center;
+  margin: auto;
+  width: 60%;
+}
+
+
+.ano-lancamento__container{
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.ano-lancamento__container > span{
+  background-color: rgb(56, 56, 56);
+}
+
+.tipo__container{
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.tipo__container > span{
+  background-color: rgb(56, 56, 56);
+}
+
+.genero__container{
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.genero__container > span{
+  background-color: rgb(56, 56, 56);
+}
+
+.nome-editora__container{
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.nome-editora__container > span{
+  background-color: rgb(56, 56, 56);
+}
+
+.ano-edicao__container{
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.ano-edicao__container > span{
+  background-color: rgb(56, 56, 56);
+}
+
+.num-edicao__container{
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.num-edicao__container > span{
+  background-color: rgb(56, 56, 56);
+}
+
+
+
