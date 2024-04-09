@@ -86,13 +86,15 @@ Siga estas etapas para configurar e executar a API em seu ambiente:
 6. Inicie o servidor de desenvolvimento:
 
   ```shell
-  python manage.py runserver
+  make start
   ```
-7. Inicie a aplicação no Angular:
+
+7. Se desejar para a aplicação use o seguinte comando:
+
     ```shell
-    cd frontend
-    ng serve
+    make stop
     ```
+
 O backend provavelmente estará rodando na porta `127.0.0.1:8000` do seu localhost enquando o frontend deve estar rodando na porta `4200`.
 
 ## 🙏 Contribuição:
