@@ -91,9 +91,9 @@ Siga estas etapas para configurar e executar a API em seu ambiente:
 
 7. Se desejar para a aplicação use o seguinte comando:
 
-    ```shell
-    make stop
-    ```
+  ```shell
+  make stop
+  ```
 
 O backend provavelmente estará rodando na porta `127.0.0.1:8000` do seu localhost enquando o frontend deve estar rodando na porta `4200`.
 
